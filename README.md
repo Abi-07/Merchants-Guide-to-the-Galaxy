@@ -1,4 +1,4 @@
-# Merchant-s-Guide-to-the-Galaxy
+# Merchants-Guide-to-the-Galaxy
 Java Solution for Merchant's Guide to the Galaxy problem
 
 
@@ -59,5 +59,3 @@ glob prok Silver is 68 Credits
 glob prok Gold is 57800 Credits
 glob prok Iron is 782 Credits
 I have no idea what you are talking about
-
-# Merchants-Guide-to-the-Galaxy
